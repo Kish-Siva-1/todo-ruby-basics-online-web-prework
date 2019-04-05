@@ -24,5 +24,5 @@ def last_evaluated_value
 end
 
 def pizza_party(choice = "cheese")
- puts choice
+ print choice
 end
